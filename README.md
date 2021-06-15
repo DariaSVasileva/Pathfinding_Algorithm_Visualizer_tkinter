@@ -1,5 +1,8 @@
 # Pathfinding Algorithm Visualizer program
+
 <img src="https://github.com/DariaSVasileva/Pathfinding_Algorithm_Visualizer_tkinter/blob/main/Pathfinding%20Algorithm%20Visualizer.png" alt="Pathfinding Algorithm Visualizer, Final Project for CS50, uses python 3.8.5 and tkinter as GUI" width="600"/>
+
+[Video Demo](https://youtu.be/ZllpOjf6Glg) 
 
 ## Description:
 This is the final project for [CS50's Introduction to Computer Science course](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x). 
