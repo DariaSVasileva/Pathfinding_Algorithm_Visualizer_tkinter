@@ -1,5 +1,5 @@
 # Pathfinding Algorithm Visualizer program
-![Solving and generating mazes](./Pathfinding algorithm visualizer.gif)
+![Solving and generating mazes](./Pathfinding Algorithm Visualizer.png)
 
 ## Description:
 This is the final project for [CS50's Introduction to Computer Science course](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x). 
