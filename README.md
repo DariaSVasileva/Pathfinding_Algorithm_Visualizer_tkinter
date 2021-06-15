@@ -1,5 +1,5 @@
 # Pathfinding Algorithm Visualizer program
-![Solving and generating mazes](./Pathfinding Algorithm Visualizer.png)
+<img src="https://github.com/DariaSVasileva/Pathfinding_Algorithm_Visualizer_tkinter/blob/main/Pathfinding%20Algorithm%20Visualizer.png" alt="Pathfinding Algorithm Visualizer, Final Project for CS50, uses python 3.8.5 and tkinter as GUI" width="600"/>
 
 ## Description:
 This is the final project for [CS50's Introduction to Computer Science course](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x). 
@@ -7,6 +7,7 @@ The program allows users to build a maze and visualize the process of finding th
 
 ## Technologies
 Language: Python 3.8.5
+
 Libraries used:
 - [tkinter package](https://docs.python.org/3/library/tkinter.html) (Tcl/Tk version 8.6)
 - [queue](https://docs.python.org/3/library/queue.html)
